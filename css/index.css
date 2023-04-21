@@ -1,0 +1,26 @@
+
+body {
+    background-color: gray;
+}
+
+#div-titulo {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    margin: 50px 50px 0px 50px;
+    padding: 30px 30px 30px 30px;
+   
+}
+
+.div-videos {
+    background-color: orangered;
+    color: black;
+    text-align: center;
+    margin: 0px 50px 50px 50px;
+    padding: 30px 30px 30px 30px;
+
+}
+
+.combo {
+    width: 400px;
+}
